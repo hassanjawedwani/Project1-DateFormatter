@@ -1,3 +1,4 @@
 # Web-Projects
 This repository contain all the projects source code.
-Project 1 : "Data Formatter"
+<br/>
+Project 1 : <h2>Data Formatter</h2>
